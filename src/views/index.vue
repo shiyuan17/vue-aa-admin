@@ -171,8 +171,8 @@
                 <Header style="padding: 0,height:'6.5vh',min-height:65px;" class="layout-header-bar">
                    <Row>
                       <Col span="3" style="float:left;"><Icon @click.native="collapsedSider" :class="rotateIcon" :style="{margin: '20px 20px 0'}" type="navicon" size="24"></Icon></Col>
-                      <Col span="17">&nbsp;</Col>
-                      <Col span="4">
+                      <Col span="15">&nbsp;</Col>
+                      <Col span="6" >
                         <div style="float:right;margin-right:20px;">
                           <ul class="use_opt_menu">
                             <li>
