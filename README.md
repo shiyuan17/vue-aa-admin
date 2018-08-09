@@ -9,6 +9,6 @@
 * ![界面二](https://github.com/shiyuan17/vue-aa-admin/blob/master/tmp/a1.png)
 
 #### 欢迎赞赏
-![赞赏](https://github.com/shiyuan17/vue-aa-admin/blob/master/tmp/zs.JPG)
+ <img src="https://github.com/shiyuan17/vue-aa-admin/blob/master/tmp/zs.JPG" width = "300" height = "300" alt="赞赏" align=center />
 
 
